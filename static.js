@@ -1,3 +1,4 @@
+//last part
 // class MathUtils {
 //    constructor(name , email){
 //     this.name = name
