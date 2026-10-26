@@ -1,3 +1,5 @@
+//first part
+
 // const user1 = {
 //     name:"Suraj",
 //     score:99,
